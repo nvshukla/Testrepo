@@ -1,2 +1,2 @@
-$ Display the output file
+$$ Display the output file
 print("New Python file")
